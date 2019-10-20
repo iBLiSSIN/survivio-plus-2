@@ -30,6 +30,9 @@ If you like this project, and want it to last, please consider supporting.
 5. Open [surviv.io](http://surviv.io).
 
 ## 🤔 FAQ
+> **I can't punch, loot, or move around properly, how to fix?**
+
+Fix: https://www.youtube.com/watch?v=GEIyS8FseiA
 
 > **'Unauthorized extension use detected', how to fix?**
 
