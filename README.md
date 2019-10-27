@@ -59,3 +59,7 @@ This is a feature for specific non-automatic guns (guns that you cannot hold dow
 > **Are pull requests allowed?**
 
 Your contributions are always welcome. If you see something that should be improved or a feature added, feel free to fork this repo and create a PR. 
+
+> **What is your Discord server?**
+
+discord.gg/HUktXMe
