@@ -62,4 +62,4 @@ Your contributions are always welcome. If you see something that should be impro
 
 > **What is your Discord server?**
 
-discord.gg/HUktXMe
+Code: HUktXMe
