@@ -34,6 +34,16 @@ If you like this project, and want it to last, please consider supporting.
 
 Fix: https://www.youtube.com/watch?v=GEIyS8FseiA
 
+> **Aimbot now working?**
+
+For the aimbot to work, you must NOT move the mouse or it will revert to your client aim.
+
+Holding right click will disable aimbot.
+
+Holding shift will stop spinning, but also it will lock on to closest downed players for finishing them.
+
+For this reason the only place you really need your client aim is when breaking things.
+
 > **'Unauthorized extension use detected', how to fix?**
 
 Fix: https://www.youtube.com/watch?v=pEEa6b3oXjA
