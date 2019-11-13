@@ -34,7 +34,7 @@ If you like this project, and want it to last, please consider supporting.
 
 Fix: https://www.youtube.com/watch?v=GEIyS8FseiA
 
-> **Aimbot now working?**
+> **Aimbot not working?**
 
 For the aimbot to work, you must NOT move the mouse or it will revert to your client aim.
 
