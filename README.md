@@ -21,6 +21,12 @@ If you like this project, and want it to last, please consider supporting.
 * FPS Counter
 * Now supports in-game radio!
 
+
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M3XLD3AUPR6LN)
+
+
+
 ## 🔨 Installation
 
 1. Download this repo as a ZIP file. 
