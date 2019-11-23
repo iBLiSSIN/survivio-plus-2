@@ -8,24 +8,33 @@ If you like this project, and want it to last, please consider supporting.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRT8N23GLN4LL&source=url)
 
-### 💪 Features
+### Free Vs. Premium Version Features
+|Features|Free|Premium|
+|----------------|-------------------------------|-----------------------------|
+|Aimbot| ✅ | ✅ |
+|Spinbot| ✅ | ✅ |
+|Bump Fire| ✅ | ✅ |
+|Scope Zoom| ✅ | ✅ |
+|ESP (Enemy Lines)| ✅ | ✅ |
+|Transparent Ceilings| ✅ | ✅ |
+|Lasersight| ✅ | ✅ |
+|FPS Counter| ✅ | ✅ |
+|Cursors| ✅ | ✅ |
+|Freezing| ✅ | ❌ |
+|IP Tracking| ✅ | ❌ |
+|Account Banning| ✅ | ❌ |
+|Super Accurate Aimbot| ❌ | ✅ |
+|Auto Quickswitch| ❌ | ✅ |
+|Transparent Everything| ❌ | ✅ |
+|Zone Colour Change| ❌ | ✅ |
+|Texture Colour Change| ❌ | ✅ |
+|Grenade Spamming| ❌ | ✅ |
+|Auto Leave Games| ❌ | ✅ |
+|Lit Building Music| ❌ | ✅ |
 
-* Aimbot with customizable prediction and speed settings
-* Custom zooming control with scroll wheel
-* Auto Clicker for semi automatic weapons
-* Displays enemy lines
-* Transparent buildings and ceilings 
-* Lasersight (shot range)
-* Custom key bindings
-* Custom cursors
-* FPS Counter
-* Now supports in-game radio!
-
-
+![alt text](https://i.imgur.com/fWJEh3Z.png "Premium Banner")
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M3XLD3AUPR6LN)
-
-
 
 ## 🔨 Installation
 
