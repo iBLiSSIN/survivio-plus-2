@@ -8,29 +8,32 @@ If you like this project, and want it to last, please consider supporting.
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZRT8N23GLN4LL&source=url)
 
-### Free Vs. Premium Version Features
+
+## Free Vs. Premium Version
+
 |Features|Free|Premium|
 |----------------|-------------------------------|-----------------------------|
-|Aimbot| ✅ | ✅ |
-|Spinbot| ✅ | ✅ |
-|Bump Fire| ✅ | ✅ |
-|Scope Zoom| ✅ | ✅ |
-|ESP (Enemy Lines)| ✅ | ✅ |
-|Transparent Ceilings| ✅ | ✅ |
-|Lasersight| ✅ | ✅ |
-|FPS Counter| ✅ | ✅ |
-|Cursors| ✅ | ✅ |
-|Freezing| ✅ | ❌ |
-|IP Tracking| ✅ | ❌ |
-|Account Banning| ✅ | ❌ |
-|Super Accurate Aimbot| ❌ | ✅ |
-|Auto Quickswitch| ❌ | ✅ |
-|Transparent Everything| ❌ | ✅ |
-|Zone Colour Change| ❌ | ✅ |
-|Texture Colour Change| ❌ | ✅ |
-|Grenade Spamming| ❌ | ✅ |
-|Auto Leave Games| ❌ | ✅ |
-|Lit Building Music| ❌ | ✅ |
+|Aimbot|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Spinbot|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Bump Fire|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Scope Zoom|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|ESP (Enemy Lines)|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Transparent Ceilings|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Lasersight|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|FPS Counter|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Cursors|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Freezing|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
+|IP Tracking|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
+|Account Banning|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
+|Super Accurate Aimbot|&nbsp;❌| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Auto Quickswitch|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Transparent Everything|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Zone Colour Change|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Texture Colour Change|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Grenade Spamming|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Auto Leave Games|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Lit Building Music|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+
 
 ![alt text](https://i.imgur.com/fWJEh3Z.png "Premium Banner")
 
