@@ -26,6 +26,7 @@ If you like this project, and want it to last, please consider supporting.
 |IP Tracking|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
 |Account Banning|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
 |Super Accurate Aimbot|&nbsp;❌| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Smart Autoloot|&nbsp;❌| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Auto Quickswitch|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Transparent Everything|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Zone Colour Change|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
