@@ -35,10 +35,7 @@ If you like this project, and want it to last, please consider supporting.
 |Auto Leave Games|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Lit Building Music|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 
-
 ![alt text](https://i.imgur.com/fWJEh3Z.png "Premium Banner")
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M3XLD3AUPR6LN)
 
 ## 🔨 Installation
 
