@@ -23,7 +23,7 @@ If you like this project, and want it to last, please consider supporting.
 |FPS Counter|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Cursors|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Freezing|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
-|IP Tracking|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
+|IP Tracking From Game|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
 |Account Banning|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
 |Super Accurate Aimbot|&nbsp;❌| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Smart Autoloot|&nbsp;❌| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
@@ -31,7 +31,7 @@ If you like this project, and want it to last, please consider supporting.
 |Transparent Everything|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Zone Colour Change|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Texture Colour Change|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Grenade Spamming|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
+|Grenade Spamming (Coming Soon)|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅| 
 |Auto Leave Games|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 |Lit Building Music|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
 
