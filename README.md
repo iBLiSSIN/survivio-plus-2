@@ -93,4 +93,4 @@ Your contributions are always welcome. If you see something that should be impro
 
 > **What is your Discord server?**
 
-Code: HUktXMe
+Link: https://discord.gg/d5PMJDP
