@@ -2,7 +2,7 @@
 
 # Welcome to Surviv+! 😃
 
-This is a Surviv.io multitool loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), transferred to [Kalaborative](https://github.com/Kalaborative) but since both have been away, I (iBLiSSIN) have decided to take ownership of the development of the code. The hack is on Youtube, check it out [here](https://www.youtube.com/channel/UCLff8YzqQ-vIAFTKPTDz3RA/featured?view_as=subscriber).
+This is a Surviv.io multitool loaded as a Chrome extension. It was originally developed by [reuke](https://github.com/reuke), transferred to [Kalaborative](https://github.com/Kalaborative) but since both have been away, I have decided to take ownership of the development of the code. 
 
 It works by modifying the JS files sent from the server to the client, and adds scripts to enhance the user experience. 
 
@@ -53,37 +53,6 @@ By purchasing the the program, you agree to the following [terms and conditions]
 5. Open [surviv.io](http://surviv.io).
 
 ## 🤔 FAQ
-> **I can't punch, loot, or move around properly, how to fix?**
-
-Fix: https://www.youtube.com/watch?v=GEIyS8FseiA
-
-> **Aimbot not working?**
-
-For the aimbot to work, you must NOT move the mouse or it will revert to your client aim.
-
-Holding right click will disable aimbot.
-
-Holding shift will stop spinning, but also it will lock on to closest downed players for finishing them.
-
-For this reason the only place you really need your client aim is when breaking things.
-
-> **'Unauthorized extension use detected', how to fix?**
-
-Fix: https://www.youtube.com/watch?v=pEEa6b3oXjA
-
-> **Hack Doesn't Work?**
-
-Official Download / Update Guide: https://www.youtube.com/watch?v=xRoCoMei3Nc
-
-The hack was updated and therefore you need to update. Go to chrome://extensions/ and click remove on the Survivio+ extension. Download the new version and load that one as the hack. 
-
-> **What do I do if the cheat stops working?**
-
-Message silentes#4242 on Discord if the game is updated. Wait until a new commit is pushed.
-
-> **This feature isn't working for me!**
-
-Some features, over time lose functionality due to the devs changing their functions in the game code. The most important features will always be available. 
 
 > **What is "bump fire"?**
 
@@ -92,7 +61,3 @@ This is a feature for specific non-automatic guns (guns that you cannot hold dow
 > **Are pull requests allowed?**
 
 Your contributions are always welcome. If you see something that should be improved or a feature added, feel free to fork this repo and create a PR. 
-
-> **What is your Discord server?**
-
-Link: https://discord.gg/d5PMJDP
