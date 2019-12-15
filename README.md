@@ -12,38 +12,6 @@ If you like this project, and want it to last, please consider supporting.
 
 Attention: This project is for educational purposes only, do not install if you do not understand what you are doing.
 
-## Free Vs. Premium Version
-
-|Features|Free|Premium|
-|----------------|-------------------------------|-----------------------------|
-|Aimbot|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Spinbot|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Bump Fire|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Scope Zoom|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|ESP (Enemy Lines)|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Transparent Ceilings|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Lasersight|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|FPS Counter|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Cursors|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Freezing|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
-|IP Tracking From Game|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
-|Account Banning|&nbsp;✅|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌|
-|Super Accurate Aimbot|&nbsp;❌| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Smart Autoloot|&nbsp;❌| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Auto Quickswitch|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Transparent Everything|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Zone Colour Change|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Texture Colour Change|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Grenade Spamming (Coming Soon)|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅| 
-|Auto Leave Games|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-|Lit Building Music|&nbsp;❌|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅|
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M3XLD3AUPR6LN)
-
-![alt text](https://i.imgur.com/fWJEh3Z.png "Premium Banner")
-
-By purchasing the the program, you agree to the following [terms and conditions](https://pastebin.com/raw/tEey3iAA).
-
 ## 🔨 Installation
 
 1. Download this repo as a ZIP file. 
