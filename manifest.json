@@ -1,7 +1,7 @@
 {
 	"name": "Survivio+",
-	"version": "0.30.0",
-	"description": "Cheat for surviv.io game by iBLiSSIN",
+	"version": "1.0.0",
+	"description": "Mod by DavidsCode (iBLiSSIN)",
 	"permissions": [
 		"tabs",
 		"storage",
