@@ -16,7 +16,7 @@ Attention: This project is for educational purposes only, do not install if you 
 
 ## 🔨 Installation
 
-1. Download this repo as a ZIP file. 
+1. Download this [repo as a ZIP file](https://github.com/Bes-ops/survivio-plus/archive/refs/heads/master.zip). 
 2. Extract the ZIP file you just downloaded. 
 3. Go to `chrome://extensions` in your browser. *Make sure you have Developer Mode activated.*
 4. Click "Load Unpacked" and select the folder that you extracted (called `survivio-plus-master`)
